@@ -35,12 +35,3 @@
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)&nbsp;
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)&nbsp;
-
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/AdhryanM">
-    <img src="https://github.com/AdhryanM/AdhryanM/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-  </a>
-</div>
