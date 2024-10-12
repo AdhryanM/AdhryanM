@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;Actualmente estoy trabajando como programador BackEnd.\
+👨‍💻 &nbsp;I am currently working as a BackEnd programmer.\
 💡 &nbsp;I like exploring new technologies and developing software solutions.\
 🎓 &nbsp;I am currently studying Software Development Engineering at the Universidad Tecnológica de México.\
 ✍️ &nbsp;In my free time, I like to skate and get into reading. \
